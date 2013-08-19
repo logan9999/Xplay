@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XPlayer</string>
+    <string name="M_SCAN">搜索</string>
+    <string name="M_SKIN">背景</string>
+    <string name="M_SET">设置</string>
+    <string name="M_EXIT">退出</string>
+    
+    <string name="checkbox_playway">播放模式</string>
+    <string name="prefs_fragment">prefs_fragment</string>
+
+</resources>
