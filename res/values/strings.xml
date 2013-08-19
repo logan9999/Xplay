@@ -1,18 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">XLight</string>
+    <string name="app_name">XPlayer</string>
+    <string name="M_SCAN">搜索</string>
+    <string name="M_SKIN">背景</string>
+    <string name="M_SET">设置</string>
+    <string name="M_EXIT">退出</string>
     
-    <string name="str_color">选择背光颜色</string>
-    <string name="str_white">白色</string>
-    <string name="str_blue">蓝色</string>
-    <string name="str_pink">粉红</string>
-    <string name="str_green">绿色</string>
-    <string name="str_orange">橘色</string>
-    <string name="str_yellow">黄色</string>
-    
-    <string name="str_screen">背光</string>
-    <string name="str_set">设置</string>
-    <string name="str_ok">确认</string>
-    <string name="str_exit">离开</string>
+    <string name="checkbox_playway">播放模式</string>
+    <string name="prefs_fragment">prefs_fragment</string>
 
 </resources>
